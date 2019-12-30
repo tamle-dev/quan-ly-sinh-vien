@@ -1,0 +1,33 @@
+E:\Homework\ProjectSM\Business\bin\Debug\Business.dll
+E:\Homework\ProjectSM\Business\bin\Debug\Business.pdb
+E:\Homework\ProjectSM\Business\bin\Debug\Database.dll
+E:\Homework\ProjectSM\Business\bin\Debug\Entity.dll
+E:\Homework\ProjectSM\Business\bin\Debug\Database.pdb
+E:\Homework\ProjectSM\Business\bin\Debug\Entity.pdb
+E:\Homework\ProjectSM\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\Homework\ProjectSM\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\Homework\ProjectSM\Business\obj\Debug\Business.csproj.CopyComplete
+E:\Homework\ProjectSM\Business\obj\Debug\Business.dll
+E:\Homework\ProjectSM\Business\obj\Debug\Business.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\bin\Debug\Business.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\bin\Debug\Business.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\bin\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\bin\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\obj\Debug\Business.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Business\obj\Debug\Business.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\bin\Debug\Business.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\bin\Debug\Business.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\bin\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\bin\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\obj\Debug\Business.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Business\obj\Debug\Business.pdb

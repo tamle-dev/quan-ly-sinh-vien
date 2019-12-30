@@ -1,0 +1,68 @@
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe.config
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\ProjectSM.pdb
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\Database.dll
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\Entity.dll
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\Database.pdb
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\Entity.pdb
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csprojAssemblyReference.cache
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Properties.Resources.resources
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.GenerateResource.cache
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.CoreCompileInputs.cache
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.CopyComplete
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.exe
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.pdb
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.SMForm.resources
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\Business.dll
+E:\Homework\ProjectSM\ProjectSM\bin\Debug\Business.pdb
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form2.resources
+E:\Homework\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form3.resources
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe.config
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\ProjectSM.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\Business.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\Business.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.SMForm.resources
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form2.resources
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form3.resources
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Properties.Resources.resources
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.GenerateResource.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.CopyComplete
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.exe
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form4.resources
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe.manifest
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\bin\Debug\ProjectSM.application
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.exe.manifest
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\ProjectSM\obj\Debug\ProjectSM.application
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.SMForm.resources
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form2.resources
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form3.resources
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form4.resources
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Form5.resources
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.Properties.Resources.resources
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.GenerateResource.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.exe
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe.config
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe.manifest
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\ProjectSM.application
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\ProjectSM.exe
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\ProjectSM.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\Business.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\Business.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\bin\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.exe.manifest
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.application
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\ProjectSM\obj\Debug\ProjectSM.csproj.CopyComplete

@@ -1,0 +1,12 @@
+E:\Homework\ProjectSM\Entity\bin\Debug\Entity.dll
+E:\Homework\ProjectSM\Entity\bin\Debug\Entity.pdb
+E:\Homework\ProjectSM\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\Homework\ProjectSM\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Homework\ProjectSM\Entity\obj\Debug\Entity.dll
+E:\Homework\ProjectSM\Entity\obj\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Entity\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Entity\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Entity\obj\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Entity\obj\Debug\Entity.pdb

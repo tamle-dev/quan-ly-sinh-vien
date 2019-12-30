@@ -1,0 +1,27 @@
+E:\Homework\ProjectSM\Database\bin\Debug\Database.dll
+E:\Homework\ProjectSM\Database\bin\Debug\Database.pdb
+E:\Homework\ProjectSM\Database\bin\Debug\Entity.dll
+E:\Homework\ProjectSM\Database\bin\Debug\Entity.pdb
+E:\Homework\ProjectSM\Database\obj\Debug\Database.csprojAssemblyReference.cache
+E:\Homework\ProjectSM\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+E:\Homework\ProjectSM\Database\obj\Debug\Database.csproj.CopyComplete
+E:\Homework\ProjectSM\Database\obj\Debug\Database.dll
+E:\Homework\ProjectSM\Database\obj\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\bin\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\bin\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\obj\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\Project SM\c4w-17clc1-1753033-project2\Project SM\ProjectSM\Database\obj\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\bin\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\bin\Debug\Database.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\bin\Debug\Entity.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\bin\Debug\Entity.pdb
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\obj\Debug\Database.dll
+C:\Users\BINH TRINH\Desktop\1753033_019_100\Source Code\ProjectSM\Database\obj\Debug\Database.pdb
